@@ -1,0 +1,5 @@
+* Writeup todos
+** need raw timeseries
+** example of input image
+** example of training data
+
